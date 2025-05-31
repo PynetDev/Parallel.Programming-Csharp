@@ -10,3 +10,15 @@ C:\Users\mohan\source\repos\Parallel.Programming-Csharp\ParallelProgramming\obj\
 C:\Users\mohan\source\repos\Parallel.Programming-Csharp\ParallelProgramming\obj\Debug\net8.0\refint\ParallelProgramming.dll
 C:\Users\mohan\source\repos\Parallel.Programming-Csharp\ParallelProgramming\obj\Debug\net8.0\ParallelProgramming.pdb
 C:\Users\mohan\source\repos\Parallel.Programming-Csharp\ParallelProgramming\obj\Debug\net8.0\ref\ParallelProgramming.dll
+C:\Users\mohan\Source\Repos\Parallel.Programming(C#)\ParallelProgramming\bin\Debug\net8.0\ParallelProgramming.deps.json
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\bin\Debug\net8.0\ParallelProgramming.dll
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\bin\Debug\net8.0\ParallelProgramming.pdb
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\obj\Debug\net8.0\ParallelProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\obj\Debug\net8.0\ParallelProgramming.AssemblyInfoInputs.cache
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\obj\Debug\net8.0\ParallelProgramming.AssemblyInfo.cs
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\obj\Debug\net8.0\ParallelProgramming.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\obj\Debug\net8.0\ParallelProgramming.sourcelink.json
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\obj\Debug\net8.0\ParallelProgramming.dll
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\obj\Debug\net8.0\refint\ParallelProgramming.dll
+C:\Users\mohan\source\repos\Parallel.Programming(C#)\ParallelProgramming\obj\Debug\net8.0\ParallelProgramming.pdb
+C:\Users\mohan\Source\Repos\Parallel.Programming(C#)\ParallelProgramming\obj\Debug\net8.0\ref\ParallelProgramming.dll
