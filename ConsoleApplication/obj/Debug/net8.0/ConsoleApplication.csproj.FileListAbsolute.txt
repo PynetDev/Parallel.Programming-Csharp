@@ -50,3 +50,5 @@ C:\Users\mohan\source\repos\Parallel.Programming(C#)\ConsoleApplication\obj\Debu
 C:\Users\mohan\source\repos\Parallel.Programming(C#)\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.pdb
 C:\Users\mohan\source\repos\Parallel.Programming(C#)\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.genruntimeconfig.cache
 C:\Users\mohan\source\repos\Parallel.Programming(C#)\ConsoleApplication\obj\Debug\net8.0\ref\ConsoleApplication.dll
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\ConsoleApplication\bin\Debug\net8.0\DesignPatterns.dll
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\ConsoleApplication\bin\Debug\net8.0\DesignPatterns.pdb

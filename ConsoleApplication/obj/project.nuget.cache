@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ENR91lnYMsA=",
+  "dgSpecHash": "K/k1MTvhw6s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mohan\\Source\\Repos\\Parallel.Programming-Csharp\\ConsoleApplication\\ConsoleApplication.csproj",
+  "projectFilePath": "C:\\Users\\mohan\\source\\repos\\Parallel.Programming-Csharp\\ConsoleApplication\\ConsoleApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],

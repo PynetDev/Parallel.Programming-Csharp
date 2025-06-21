@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParallelProgramming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2044357193a6355512cb579c6f1862613cc1f0b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4d2ff03907e4bcf1f56b9ad10f3b9390bfdc1e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParallelProgramming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParallelProgramming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

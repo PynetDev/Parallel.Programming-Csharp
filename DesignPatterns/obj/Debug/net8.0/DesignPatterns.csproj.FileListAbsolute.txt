@@ -1,0 +1,12 @@
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\bin\Debug\net8.0\DesignPatterns.dll
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\bin\Debug\net8.0\DesignPatterns.pdb
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\obj\Debug\net8.0\DesignPatterns.sourcelink.json
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\obj\Debug\net8.0\DesignPatterns.dll
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\obj\Debug\net8.0\refint\DesignPatterns.dll
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
+C:\Users\mohan\source\repos\Parallel.Programming-Csharp\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll

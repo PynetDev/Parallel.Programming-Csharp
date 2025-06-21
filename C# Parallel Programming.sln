@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgramming", "ParallelProgramming\ParallelProgramming.csproj", "{EBCD4B12-1368-4DCF-B50E-096C51924D07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{87BC8668-FDFC-472B-99F1-1BED796562B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EBCD4B12-1368-4DCF-B50E-096C51924D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBCD4B12-1368-4DCF-B50E-096C51924D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBCD4B12-1368-4DCF-B50E-096C51924D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BC8668-FDFC-472B-99F1-1BED796562B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BC8668-FDFC-472B-99F1-1BED796562B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BC8668-FDFC-472B-99F1-1BED796562B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BC8668-FDFC-472B-99F1-1BED796562B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

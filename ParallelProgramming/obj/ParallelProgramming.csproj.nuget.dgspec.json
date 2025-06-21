@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohan\\Source\\Repos\\Parallel.Programming-Csharp\\ParallelProgramming\\ParallelProgramming.csproj": {}
+    "C:\\Users\\mohan\\source\\repos\\Parallel.Programming-Csharp\\ParallelProgramming\\ParallelProgramming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohan\\Source\\Repos\\Parallel.Programming-Csharp\\ParallelProgramming\\ParallelProgramming.csproj": {
+    "C:\\Users\\mohan\\source\\repos\\Parallel.Programming-Csharp\\ParallelProgramming\\ParallelProgramming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohan\\Source\\Repos\\Parallel.Programming-Csharp\\ParallelProgramming\\ParallelProgramming.csproj",
+        "projectUniqueName": "C:\\Users\\mohan\\source\\repos\\Parallel.Programming-Csharp\\ParallelProgramming\\ParallelProgramming.csproj",
         "projectName": "ParallelProgramming",
-        "projectPath": "C:\\Users\\mohan\\Source\\Repos\\Parallel.Programming-Csharp\\ParallelProgramming\\ParallelProgramming.csproj",
+        "projectPath": "C:\\Users\\mohan\\source\\repos\\Parallel.Programming-Csharp\\ParallelProgramming\\ParallelProgramming.csproj",
         "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohan\\Source\\Repos\\Parallel.Programming-Csharp\\ParallelProgramming\\obj\\",
+        "outputPath": "C:\\Users\\mohan\\source\\repos\\Parallel.Programming-Csharp\\ParallelProgramming\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "Z:\\Visual Studio 2022\\SDK\\NuGetPackages"
